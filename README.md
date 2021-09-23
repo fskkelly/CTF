@@ -6,7 +6,7 @@
 pip install pycryptodome
 ```
 
-### AES加密
+### AES加密(Symmetric-key algorithm)
 ```
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
