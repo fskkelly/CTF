@@ -6,6 +6,7 @@
 pip install pycryptodome
 ```
 
+https://officeguide.cc/python-pycryptodome-aes-symmetric-encryption-tutorial-examples/
 ### AES加密(Symmetric-key algorithm)
 ```
 from Crypto.Cipher import AES
