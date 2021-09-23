@@ -18,6 +18,16 @@ n2s(n) - number to packed string
 s2b(s) - packed string to binary string
 b2s(b) - binary string to packed string
 ```
+```
+import libnum
+
+s="flag{happyCryptoDay}"
+number=libnum.s2n(s)
+number
+```
+```
+print(libnum.n2s(number))
+```
 ## gmpy2
 1. 下載適合版本的gmpy2 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 2. 存到python安裝目錄的scripts
