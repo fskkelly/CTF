@@ -20,6 +20,7 @@ file_out = open("encrypted.bin", "wb")
 [ file_out.write(x) for x in (cipher.nonce, tag, ciphertext) ]
 file_out.close()
 ```
+
 ### AES解密
 ```
 from Crypto.Cipher import AES
