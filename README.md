@@ -1,5 +1,4 @@
-# 現代密碼學
-python現代密碼實測
+# Python現代密碼實測
 
 ## pycryptodome
 ```
