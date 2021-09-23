@@ -12,7 +12,12 @@ https://officeguide.cc/python-pycryptodome-aes-symmetric-encryption-tutorial-exa
 ```
 pip install libnum
 ```
-
+```
+s2n(s) - packed string to number
+n2s(n) - number to packed string
+s2b(s) - packed string to binary string
+b2s(b) - binary string to packed string
+```
 ## gmpy2
 1. 下載適合版本的gmpy2 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 2. 存到python安裝目錄的scripts
