@@ -18,7 +18,7 @@ pip install libnum
 4. cd將目錄切換到scripts
 5. pip install gmpy2檔名
 
-# 檢查已安裝的套件
+### 檢查已安裝的套件
 ```
 pip list
 ```
