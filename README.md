@@ -18,7 +18,7 @@ n2s(n) - number to packed string
 s2b(s) - packed string to binary string
 b2s(b) - binary string to packed string
 ```
-###example
+### example
 ```
 import libnum
 
