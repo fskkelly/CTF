@@ -12,7 +12,7 @@ pip install libnum
 ```
 
 ## gmpy2
-1. 下載適合版本的gmpy2 https://www.lfd.uci.edu/~gohlke/pythonlibs/
+1. 下載適合版本的gmpy2  https://www.lfd.uci.edu/~gohlke/pythonlibs/
 2. 存到python安裝目錄的scripts
 3. cmd中輸入wheel檢視是否已安裝
 4. 將目錄切換到scripts
