@@ -17,4 +17,8 @@ pip install libnum
 3. cmd中輸入wheel檢視是否已安裝
 4. cd將目錄切換到scripts
 5. pip install gmpy2檔名
-6. ```pip list ```檢查已安裝的套件
+
+```
+pip list
+```
+檢查已安裝的套件
