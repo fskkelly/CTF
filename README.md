@@ -7,7 +7,8 @@ pip install pycryptodome
 ```
 
 ## libnum
-```pip install libnum
+```
+pip install libnum
 ```
 
 ## gmpy2
@@ -16,4 +17,4 @@ pip install pycryptodome
 3. cmd中輸入wheel檢視是否已安裝
 4. 將目錄切換到scripts
 5. pip install gmpy2檔名
-6. pip list 檢查已安裝的套件
+6. ```pip list ```檢查已安裝的套件
