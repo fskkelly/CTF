@@ -2,7 +2,7 @@
 2021
 
 pycryptodome
-pip install pycryptodome
+\pip install pycryptodome
 
 libnum
 pip install libnum
