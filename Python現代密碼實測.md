@@ -1,12 +1,17 @@
+## pycrypto
+```
+!pip install pycrypto
+```
+
 ## pycryptodome
 ```
-pip install pycryptodome
+!pip install pycryptodome
 ```
 https://officeguide.cc/python-pycryptodome-aes-symmetric-encryption-tutorial-examples/
 
 ## libnum
 ```
-pip install libnum
+!pip install libnum
 ```
 ```
 s2n(s) - packed string to number
@@ -26,6 +31,13 @@ number
 print(libnum.n2s(number))
 ```
 ## gmpy2
+```
+!apt install libgmp-dev
+!apt install libpfr-dev
+!apt install libmpc-dev
+!pip install gmpy2
+```
+
 1. 下載適合版本的gmpy2 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 2. 存到python安裝目錄的scripts
 3. cmd中輸入wheel檢視是否已安裝
