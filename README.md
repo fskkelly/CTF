@@ -1,14 +1,17 @@
-## pycrypto
+# 線上工具 == > 質因數分解
+http://factordb.com/
+
+# pycrypto
 ```
 !pip install pycrypto
 ```
 
-## pycryptodome
+# pycryptodome
 ```
 !pip install pycryptodome
 ```
 
-## libnum
+# libnum
 ```
 !pip install libnum
 ```
@@ -18,7 +21,7 @@ n2s(n) - number to packed string
 s2b(s) - packed string to binary string
 b2s(b) - binary string to packed string
 ```
-### example
+## example
 ```
 import libnum
 
@@ -29,7 +32,7 @@ number
 ```
 print(libnum.n2s(number))
 ```
-## gmpy2
+# gmpy2
 ```
 !apt install libgmp-dev
 !apt install libpfr-dev
