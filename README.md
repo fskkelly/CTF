@@ -7,7 +7,6 @@
 ```
 !pip install pycryptodome
 ```
-https://officeguide.cc/python-pycryptodome-aes-symmetric-encryption-tutorial-examples/
 
 ## libnum
 ```
